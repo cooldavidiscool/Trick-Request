@@ -1,0 +1,38 @@
+{
+  "output_file": "settings.json",
+  "tricklandmessage": {
+    "type": "textbox",
+    "value": "",
+    "label": "trick landed message",
+    "tooltip": "message after you land the trick",
+    "group" : "General"
+  },
+  "sourceName": {
+    "type": "textbox",
+    "value": "",
+    "label": "soure name",
+    "tooltip": "name of source you want to appear",
+    "group" : "General"
+  },
+  "sceneName": {
+    "type": "textbox",
+    "value": "",
+    "label": "scene name",
+    "tooltip": "name of scene the source is in",
+    "group" : "General"
+  },
+  "duration": {
+    "type": "numberbox",
+    "value": "",
+    "label": "Time Source is Visible",
+    "tooltip": "How long your source is able to be seen",
+    "group" : "General"
+  },
+  "whoisstreaming": {
+    "type": "textbox",
+    "value": "",
+    "label": "twitch name",
+    "tooltip": "your twitch name, what is it",
+    "group" : "General"
+  }
+}
