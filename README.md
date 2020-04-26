@@ -1,5 +1,7 @@
 #T R I C K  R E Q U E S T
 --------------------------
+* ONLY WORKS WITH OBS STUDIO AND STREAMLABS CHATBOT *
+
 install script in Streamlabs Chatbot (aka SLCB)  
 enable the script  
 click on script  
