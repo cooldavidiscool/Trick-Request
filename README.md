@@ -27,9 +27,9 @@ try out the script!
 	
 	ex. !tr do a kickflip
 
-tricks will be saved to "trickrequest.txt"
-usernames will be saved to "usernames.txt"
-*utilize these txt files with your stream*
+tricks will be saved to "trickrequest.txt"  
+usernames will be saved to "usernames.txt"  
+*utilize these txt files with your stream*  
 
 if you have any questions, feel free to ask me!  
 I'll make a video on how to set it up soon  
